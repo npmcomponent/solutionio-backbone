@@ -7,6 +7,6 @@
 	},
 	"keywords": ["backbone", "underscore"],
 	"scripts": [
-		"backbone.js"
+		"backbone.js", "index.js"
 	]
 }
